@@ -1,6 +1,5 @@
 import { useUsers } from "hooks/useUsers";
 import { FiEdit, FiTrash2 } from "react-icons/fi";
-import { Link } from "react-router-dom";
 import { DeleteUserButton, EditUserButton, UsersListContainer } from "./styles";
 
 export default function UsersList() {
