@@ -1,6 +1,6 @@
 # Desafio Frontend Sonne
 
-Aplicação SPA que permite controlar usuários tarefas com context API e typescript.
+Aplicação SPA que permite controlar usuários e tarefas com context API e typescript.
 
 Foram utilizadas as seguintes bibliotecas:  
 axios -> requests http  
