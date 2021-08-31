@@ -2,16 +2,16 @@
 
 Aplicação SPA que permite controlar usuários tarefas com context API e typescript.
 
-Foram utilizadas as seguintes bibliotecas:
-axios -> requests http
-miragejs -> mock de backend
-react-router-dom -> controle de rotas
-react-hook-form -> controle de formulários
-yup -> validação de campos
-styled-components -> css-in-js
-react-beautiful-dnd -> drag'n'drop
-react-icons -> biblioteca de ícones
-react-toastfy -> alertas personalizados
+Foram utilizadas as seguintes bibliotecas:  
+axios -> requests http  
+miragejs -> mock de backend  
+react-router-dom -> controle de rotas  
+react-hook-form -> controle de formulários  
+yup -> validação de campos  
+styled-components -> css-in-js  
+react-beautiful-dnd -> drag'n'drop  
+react-icons -> biblioteca de ícones  
+react-toastfy -> alertas personalizados  
 
 ## Rodando o projeto
 
